@@ -1,0 +1,14 @@
+langchain
+langchain-google-vertexai
+langchain-community
+langchain-text-splitters
+google-cloud-storage
+chromadb
+sentence-transformers
+python-dotenv
+streamlit
+PyPDF2
+python-docx
+unstructured
+tiktoken
+faiss-cpu
